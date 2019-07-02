@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 import os
-import time
-from datetime import datetime	
 
 def createfolders(cwd):
 	# check if folders exist and create folders
